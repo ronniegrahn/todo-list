@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/ronniegrahn/todo-list/issues"
   },
-  "homepage": "https://ronniegrahn.github.io/todo-list",
+  "homepage": "https://ronniegrahn.github.io/",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
